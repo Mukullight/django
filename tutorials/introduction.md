@@ -23,3 +23,25 @@ In a computer networking, an internet socket is an end point of a biderctional i
 HTTP
 Building a simple browser using python 
 
+* Browser/Server Communication
+
+$ pwd 
+dj4e/code/http
+$ python3. server.py 
+Access http://localhost:9000
+
+GET / HTTP/1.1
+GET /FAVICON.ICO HTTP/1.1
+
+> Cheatsheet for the HTTP error codes 
+
+![HTTP Error codes](HTTP-Error-Codes.jpg)
+
+
+
+
+
+
+
+
+
